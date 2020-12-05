@@ -29,3 +29,5 @@ N.B. : If you choose Black color for your grid, you may change the highlight col
   Tania Afrin Somaya  
   Md Humayun Farid  
 
+## License
+Copyright (c) 2020 Sajal Das.
